@@ -1,5 +1,7 @@
 # VocalShell
 
+è un semplicissimo script scritto in python...
+
 Potresti avere dei problemi con il microfono; i moduli da installare sono:
 PyAudio, webbrowser, speech_recognition e gtts
 
